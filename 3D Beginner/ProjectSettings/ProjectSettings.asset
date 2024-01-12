@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: 6166817ff60eb4d12b927d549651be68
+  productGUID: e111433cdb76c45589b735b320b8c6d3
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -821,7 +821,7 @@ PlayerSettings:
   cloudProjectId: 0c5277d9-82c6-4dc3-aa90-31172046b4bd
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
+  projectName: 3D Beginner
   organizationId: justin-scott-02aa1656-3b5d-47ed-b8cd-e28fbb5acca4
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 1
